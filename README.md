@@ -20,6 +20,6 @@ Features and Issue requests are always welcome! Feel free to follow [insert link
 This project exists thanks to :  <br />
 
 Harindi Perera : [👤](https://www.linkedin.com/in/harindi-perera-43253718b/) <br />
-Anthony Fallabella : [👤](https://www.linkedin.com/in/afalabella/) <br />
+Anthony Falabella : [👤](https://www.linkedin.com/in/afalabella/) <br />
 Jake Sheath : [👤](https://www.linkedin.com/in/jake-sheath/) <br />
 
